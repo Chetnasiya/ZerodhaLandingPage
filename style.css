@@ -1,0 +1,224 @@
+body {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    margin: 0;
+}
+
+.container {
+    justify-content: center;
+
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px;
+    padding-bottom: 10px;
+    box-shadow: 0 4px 4px -2px rgba(135, 134, 134, 0.2);
+    position: fixed;
+    background-color: white;
+    z-index: 10;
+
+
+}
+
+.logo {
+    margin-right: 230px;
+}
+
+.logoimg {
+    width: 125px;
+    height: 17px;
+}
+
+.nav-list {
+    display: flex;
+    padding: 20px;
+}
+
+.nav {
+    padding: 15px;
+    padding-left: 25px;
+    font-size: 14;
+    color: gray;
+
+}
+
+.three-lines {
+    padding-left: 20px;
+    padding-top: 10px;
+    width: 25px;
+    height: 25px;
+}
+
+.navbar {
+    display: flex;
+
+}
+
+.landing-img {
+
+    width: 750px;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.land-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    text-align: center;
+    color: rgb(78, 76, 76);
+    font-weight: 450;
+    margin-top: 30px;
+}
+
+.smtext {
+    text-align: center;
+    color: rgb(78, 76, 76);
+    font-weight: 350;
+    margin-top: 8px;
+}
+
+.signUpbtn {
+    background-color: #3f84d9;
+    color: white;
+    width: 200px;
+    height: 45px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    align-items: center;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.signUpbtn1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.second-section {
+    margin-top: 40px;
+    color: rgb(78, 76, 76);
+    display: flex;
+    flex-direction: row;
+    margin: 100px 200px 50px 200px;
+
+}
+
+
+.texts {
+    width: 400px;
+    line-height: 30px;
+    margin-top: 30px;
+    font-weight: 350;
+}
+
+.ecosystem-img {
+    height: 650px;
+    width: 650px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.main-txt {
+    margin-bottom: 50px;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.heading {
+    margin-bottom: 1px;
+    font-weight: 520;
+    font-size: 20px;
+}
+
+.small-text {
+    display: flex;
+    flex-direction: row;
+    color: #3f84d9;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+}
+
+.rightarr {
+    width: 20px;
+    height: 20px;
+    padding-top: 17px;
+    color: #3f84d9;
+    margin-left: 7px;
+}
+
+.chhotadiv {
+    display: flex;
+    flex-direction: row;
+    margin-right: 30px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 25px;
+}
+
+.sec3 {
+    background-color: #f6fbff;
+    ;
+}
+
+.section-3 {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    margin: 0px 200px 100px 200px;
+    height: 60px;
+    background-color: #f6fbff;
+
+}
+
+.btwn-para {
+    margin: -15px 50px 0px 50px;
+    color: gray;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.rarr {
+    color: #3f84d9;
+    margin-left: 50px 0px 0px 7px;
+    width: 20px;
+    height: 20px;
+}
+
+.kc-banner-image {
+    height: 50px;
+    width: 200px;
+}
+
+.kite-connect-logo {
+    margin-top: 6px;
+}
+
+a {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    text-decoration: none;
+    color: #3f84d9;
+}
+
+a img {
+    width: 16px;
+    height: 16px;
+}
